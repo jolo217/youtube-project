@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+	background: #f5c9c5;
+	margin: 0;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+form {
+	 text-align: center;
+	 margin-top: 20px;
+	 padding: 0 20px;
+}
+
+.search-input {
+	margin-bottom: 10px;
+	width: 300px;
+	height: 25px;
+}
+
+#search-button {
+	text-align: center;
+	background: #952b2b;
+	border-color: #957575;
+	color: white;
+	display: block;
+	margin: 0 auto;
+	border-radius: 2px;
+	width: 300px;
+	height: 25px;
+}
+
+.js-search-results {
+	margin-left: 20px;
+}
